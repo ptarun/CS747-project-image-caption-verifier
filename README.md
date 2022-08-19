@@ -1,1 +1,1 @@
-# CS747-project-image-caption-verifier
+# CS772-project-image-caption-verifier
